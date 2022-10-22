@@ -1,0 +1,11 @@
+body {
+    background-color: #242933;
+}
+
+hr {
+    border-color: #a5abb8;
+}
+
+.steps .step {
+    text-align: left;
+  }
