@@ -136,3 +136,17 @@ h1 {
   background: #ff0080;
   color: #ffffff;
 }
+
+.wrapper .linkedin:hover,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip::before {
+  background: #1b61b6;
+  color: #ffffff;
+}
+
+.wrapper .mail:hover,
+.wrapper .mail:hover .tooltip,
+.wrapper .mail:hover .tooltip::before {
+  background: #e25752;
+  color: #ffffff;
+}
